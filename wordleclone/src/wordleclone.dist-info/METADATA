@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.5
+Name: wordleclone
+Formal-Name: Wordle Clone
+App-ID: cs150.decastro.hansgabriel.wordleclone
+Version: 0.0.1
+Home-page: https://hansgabriel.decastro.cs150/wordleclone
+Author: Hans Gabriel H. De Castro
+Author-email: hhdecastro@up.edu.ph
+Summary: Wordle clone using BeeWare
